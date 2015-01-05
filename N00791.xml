@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:000952_0000_0FAD97D4D1DC5B70"/>
-            <pb facs="tcp:000952_0001_0FAD97D591C14DA8" rendition="simple:additions"/>
+            <pb facs="unknown:000952_0000_0FAD97D4D1DC5B70"/>
+            <pb facs="unknown:000952_0001_0FAD97D591C14DA8"
+                rendition="simple:additions"/>
             <head>Upon Mr. <hi>Samuel Willard,</hi> his firſt coming into the Aſſembly, and Praying, after a long and dangerous Fit of Sickneſs;
 <date>
                   <hi>November 21. 1700.</hi>
